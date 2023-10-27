@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\bin\Debug\net6.0\HomeWorkPraktikiExtentions.exe
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\bin\Debug\net6.0\HomeWorkPraktikiExtentions.deps.json
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\bin\Debug\net6.0\HomeWorkPraktikiExtentions.runtimeconfig.json
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\bin\Debug\net6.0\HomeWorkPraktikiExtentions.dll
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\bin\Debug\net6.0\HomeWorkPraktikiExtentions.pdb
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.dll
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\refint\HomeWorkPraktikiExtentions.dll
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.pdb
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\HomeWorkPraktikiExtentions.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework\HomeWorkExtentions\HomeWorkPraktikiExtentions\HomeWorkPraktikiExtentions\obj\Debug\net6.0\ref\HomeWorkPraktikiExtentions.dll
